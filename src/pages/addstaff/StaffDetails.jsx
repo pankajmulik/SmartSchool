@@ -4,10 +4,11 @@ const StaffDetails = () => {
   return (
       <div>
 
-          <div className="titles">Staff Details</div>
+          
           
           <div id="staffdetails">
 
+              <div className="titles">Staff Details</div>
               <form >
 
                   <div className="employeedetails">

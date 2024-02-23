@@ -13,11 +13,11 @@ const OtherDetails = () => {
           
 
           <div id="otherdetails">
-              <div className="titles">Other Details</div>
 
 
               <div className="empdetails">
-           
+
+                  <div className="titles">Other Details</div>
           
           <form action="#">
                   <div className="empdetailss">

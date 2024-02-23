@@ -12,11 +12,12 @@ const PersonalDetail = () => {
 
 
             <div id="persdetails">
-                <div className="titles">Personal Details</div>
 
 
 
                 <div className="empdetails">
+
+                    <div className="titles">Personal Details</div>
 
                     <form >
 
