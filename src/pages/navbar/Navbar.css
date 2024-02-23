@@ -1,0 +1,69 @@
+#navbaar{
+    margin: 0%;
+    padding: 0%;
+  
+background-attachment: scroll;
+  position: fixed;
+    background-color:whitesmoke;
+    height:4rem;
+    width: 100%;
+}
+#logos{
+    margin: auto;
+    text-align: left;
+    padding-left: 3%;
+    color: rgb(163, 181, 26);
+}
+.uppernav{
+    display: flex;
+}
+
+
+.nhalf{
+    width: 50%;
+    height:4rem ;
+    
+}
+
+
+#navmenus{
+    display: block;
+    width: 50%;
+    height: 4rem;;
+    text-align: center;
+    padding-top: 1%;
+
+}
+
+#rightmenu{
+    display: none;
+
+}
+
+
+
+.rnavm{
+    margin: auto;
+    text-align: center;
+   
+}
+.rnavms{
+    background-color: orange;
+    border-radius: 10px;
+    padding: 0px 1%;
+}
+
+@media screen and (max-width:960px) {
+    
+
+    #navmenus{
+
+        display: none;
+width: 50%;
+    }
+
+    #rightmenu{
+        display: block;
+    }
+
+}

@@ -1,0 +1,77 @@
+#addstaff {
+  margin: 0%;
+  justify-content: center;
+  padding: 0%;
+  width: 100%;
+}
+
+.titles{
+    background-color: rgb(164, 222, 222);
+    font-size: large;
+    text-align: left;
+   margin: 0px 2%;
+   padding-left: 2%;
+   border-bottom: 2px dashed black;
+}
+
+#adstf {
+  width: 100%;
+
+  margin-top: 80px;
+ 
+}
+#branch {
+  color: rgb(40, 14, 62);
+}
+
+/* staff details */
+#staffdetails{
+   
+    margin: 2%;
+
+ box-sizing: border-box;
+ box-shadow: gray  5px 5px  10px 5px;
+ 
+}
+.employeedetails {
+  display: flex;
+}
+.staffd {
+  width: 20%;
+  margin: auto;
+  padding: 2%;
+  text-align: left;
+}
+
+
+/* personal details css */
+.empdetails{
+    margin: 2%;
+    
+    box-sizing: border-box;
+    box-shadow: gray 5px 5px 5px 5px;
+}
+.persdetails{
+    width: 100%;
+  
+}
+.pdin{
+    display: flex;
+padding: 2%;
+   
+}
+.pdino{
+    margin: auto;
+    text-align: left;
+    width: 20%;
+}
+
+
+#saveb{
+    margin: 5px;
+  background-color: orange;
+  height: 2rem;
+  border: none;
+  font-size: medium;
+  
+}
